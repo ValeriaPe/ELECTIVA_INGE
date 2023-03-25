@@ -10,7 +10,7 @@ const char* dweetIO = "https://dweet.io/dweet/for/CovidJunior";
 
 #define DHTTYPE DHT11  
 
-DHT dht(DHTPIN, DHTTYPE); //ACT. 3
+DHT dht(DHTPIN, DHTTYPE); //ACT. 6
 
 
 void setup(){

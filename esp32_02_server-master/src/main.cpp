@@ -5,7 +5,7 @@
 const char * ssid = "covid";
 const char * password = "abc12345";
 const int puerto = 80;
-WiFiServer servidor(puerto);  //ACT. 6
+WiFiServer servidor(puerto);  //ACT. 7
 
 /**
  * @brief 
